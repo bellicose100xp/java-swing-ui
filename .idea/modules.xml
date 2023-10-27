@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/FlowLayout/FlowLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/GridLayout/GridLayout.iml" filepath="$PROJECT_DIR$/GridLayout/GridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/JButton/JButton.iml" filepath="$PROJECT_DIR$/JButton/JButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" filepath="$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwingUI.iml" filepath="$PROJECT_DIR$/SwingUI.iml" />
     </modules>
   </component>
