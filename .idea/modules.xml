@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BorderLayout/BorderLayout.iml" filepath="$PROJECT_DIR$/BorderLayout/BorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragAndDrop/DragAndDrop.iml" filepath="$PROJECT_DIR$/DragAndDrop/DragAndDrop.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/FlowLayout/FlowLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/GridLayout/GridLayout.iml" filepath="$PROJECT_DIR$/GridLayout/GridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/JButton/JButton.iml" filepath="$PROJECT_DIR$/JButton/JButton.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/JTextField/JTextField.iml" filepath="$PROJECT_DIR$/JTextField/JTextField.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeyListener/KeyListener.iml" filepath="$PROJECT_DIR$/KeyListener/KeyListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MouseListener/MouseListener.iml" filepath="$PROJECT_DIR$/MouseListener/MouseListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewWindow/NewWindow.iml" filepath="$PROJECT_DIR$/NewWindow/NewWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwingUI.iml" filepath="$PROJECT_DIR$/SwingUI.iml" />
     </modules>
