@@ -1,15 +1,16 @@
 import javax.swing.*;
 
 class MyFrame extends JFrame {
-
-    DragPanel dragPanel = new DragPanel();
+    MyPanel panel;
 
     public MyFrame() {
-        setTitle("Drag & Drop Demo");
-        this.setSize(600, 600);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setSize(500, 500);
 
-        this.add(dragPanel);
+        panel = new MyPanel();
+        this.add(panel);
+        this.pack();
+        this.setLocationRelativeTo(null);
         this.setVisible(true);
     }
 }

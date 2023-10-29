@@ -10,10 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" filepath="$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/JTextField/JTextField.iml" filepath="$PROJECT_DIR$/JTextField/JTextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyBindings/KeyBindings.iml" filepath="$PROJECT_DIR$/KeyBindings/KeyBindings.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeyListener/KeyListener.iml" filepath="$PROJECT_DIR$/KeyListener/KeyListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/MouseListener/MouseListener.iml" filepath="$PROJECT_DIR$/MouseListener/MouseListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewWindow/NewWindow.iml" filepath="$PROJECT_DIR$/NewWindow/NewWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwingUI.iml" filepath="$PROJECT_DIR$/SwingUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2DGraphics/_2DGraphics.iml" filepath="$PROJECT_DIR$/_2DGraphics/_2DGraphics.iml" />
     </modules>
   </component>
 </project>
